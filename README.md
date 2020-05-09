@@ -12,3 +12,5 @@ The graph below depicts campaign outcomes based on launch date. The launch dates
 ---
 The next graph shows how goal funding affected the outcome of the campaign. 
 --- 
+<img src ="https://github.com/hkyopreston/Kickstarter-Analysis_Module_1_Challenge/blob/master/Outcome%20Percentages%20by%20Goal.png?raw=true"></img>
+---
